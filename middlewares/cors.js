@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://klichkouski.student.nomoredomains.rocks',
-  'http://klichkouski.student.nomoredomains.rocks',
+  'https://movie.searh.nomoredomains.rocks',
+  'http://movie.searh.nomoredomains.rocks',
   'http://localhost:3000',
 ];
 

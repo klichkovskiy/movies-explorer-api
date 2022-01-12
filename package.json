@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "lint": "npx eslint ."
+    "lint": "npx eslint .",
+    "deploy": "scp -r ./* klichkouski@51.250.4.24:/home/klichkouski/movies-explorer-api"
   },
   "repository": {
     "type": "git",
